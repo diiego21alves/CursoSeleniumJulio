@@ -10,6 +10,9 @@
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
 
+#Adicionando um teste do gitignore
+*.*.Spec
+
 # Package Files #
 *.jar
 *.war
